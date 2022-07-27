@@ -8,7 +8,7 @@ public class CopiedNames {
         int variableThree = 4000;
         int valueTwo = 3000;
         int variables = 5000;
-        variables = 7000;
+       
         int valueThree = 90000;
         int values = 100000;
         int my_integer_one = 1000000;
